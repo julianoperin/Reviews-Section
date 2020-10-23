@@ -251,5 +251,6 @@ main {
   color: var(--clr-primary-1);
 }
 
-.icon {
+button:focus {
+  outline: 0;
 }
